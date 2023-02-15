@@ -13,7 +13,7 @@ import java.util.List;
 @RequiredArgsConstructor
 public class MemberService {
 
-    private final MemberRepository memberRepository;
+    private final MemberRepository memberRepository; 
 
     /**
      * 회원 가입
